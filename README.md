@@ -1,7 +1,7 @@
 ## <b>PRIVACY POLICY</b>
 This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other related informations if anyone decided to use the App.
 
-### <b>How do we protect your ### <b>How do we protect your information?</b>
+### How do we protect your information? 
 We never ask for credit card numbers. <br>
 We do not use Malware Scanning. <br>
 We do not use an SSL certificate. <br>
