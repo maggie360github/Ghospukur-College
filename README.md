@@ -20,6 +20,7 @@ I have no control over and assume no responsibility for the content, privacy pol
 We collect several different types of information for various purposes to provide and improve our Service to you.
 We use third party services and service providers which may collect information to provide functionality in app.
 - <a href="https://policies.google.com/privacy">Google Play Services</a>
+- <a href="https://firebase.google.com/support/privacy">Firebase</a>
 
 ### <b> Types of Data Collected </b>
 ### - Personal Data
@@ -28,6 +29,7 @@ While using our Service, we may ask you to provide us with certain personally id
 2. First Name and Last Name <br>
 3. Device id's <br>
 We may use Personal Data for the functioning of the app or to show you ads.
+4. Profile Photo from your Google Account
 
 ### - Location Data
 We may use and store information about your location if you give us permission to do so (“Location Data”). We use this data to provide features of our Service, to improve and customize our Service.
