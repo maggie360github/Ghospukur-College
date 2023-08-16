@@ -1,3 +1,4 @@
+### Ambari
 ## <b>PRIVACY POLICY</b>
 This page is used to inform visitors regarding the privacy policies with the collection, use, disclosure of Personal Information, and other related informations if anyone decided to use the App.
 
